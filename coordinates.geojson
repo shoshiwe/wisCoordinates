@@ -1,0 +1,1305 @@
+{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "Sculptures",
+        "en_name": "The Inner Light",
+        "he_name": "האור הפנימי"
+      },
+      "geometry": {
+        "coordinates": [
+          34.810162,
+          31.905964
+        ],
+        "type": "Point"
+      },
+      "id": "0a0d4f9e18b976a8831c80891b1ff727"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "tree",
+        "he_name": "אלון התבור",
+        "en_name": "Mount Tabor Oak",
+        "number": "E2116"
+      },
+      "geometry": {
+        "coordinates": [
+          34.814134,
+          31.907779
+        ],
+        "type": "Point"
+      },
+      "id": "0c020b5420482dc5bebe52c2cc442979"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "history",
+        "en_name": "Kimmel Center for Archaeological Science",
+        "he_name": "מרכז קימל למדעי הארכיאולוגיה"
+      },
+      "geometry": {
+        "coordinates": [
+          34.809863,
+          31.907714
+        ],
+        "type": "Point"
+      },
+      "id": "19aaa1877a2f55db6d4fc72eb954b105"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "tree",
+        "he_name": "פיקוס בנגלי",
+        "en_name": "Indian Banyan",
+        "number": "C760"
+      },
+      "geometry": {
+        "coordinates": [
+          34.810296,
+          31.906015
+        ],
+        "type": "Point"
+      },
+      "id": "1b6ad0d625feaaf70f20e672e58f62b2"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "Sculptures",
+        "en_name": "King and Queen",
+        "he_name": "מלך  ומלכה"
+      },
+      "geometry": {
+        "coordinates": [
+          34.812548,
+          31.907391
+        ],
+        "type": "Point"
+      },
+      "id": "1bf49722adec129f7e80da00ab903d5f"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "General",
+        "en_name": "Maurice and Gabriela Goldschleger Life Sciences Library",
+        "he_name": "  ספרית גולדשלגר למדעי החיים"
+      },
+      "geometry": {
+        "coordinates": [
+          34.808689,
+          31.907142
+        ],
+        "type": "Point"
+      },
+      "id": "1c54e9256d904e7a1df23e394cd00b36"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "Cash Machine",
+        "en_name": "ATM Hermann and Dan Mayer Campus Guesthouse - Maison de France",
+        "he_name": "כספומט סן מרטין"
+      },
+      "geometry": {
+        "coordinates": [
+          34.810553,
+          31.906645
+        ],
+        "type": "Point"
+      },
+      "id": "1e07a85f6b84de309952129ca8e97f3d"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "tree",
+        "he_name": "זית אירופי",
+        "en_name": "Olive",
+        "number": "I1169"
+      },
+      "geometry": {
+        "coordinates": [
+          34.809458,
+          31.904302
+        ],
+        "type": "Point"
+      },
+      "id": "21f6b61e5a1f52e83a561a9f12318cde"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "Sculptures",
+        "en_name": "Semaphore",
+        "he_name": "סמאפור"
+      },
+      "geometry": {
+        "coordinates": [
+          34.817782,
+          31.908132
+        ],
+        "type": "Point"
+      },
+      "id": "2774275e2a3e80852b3dfaf0c46f2448"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "tree",
+        "he_name": "פיקוס קערורי",
+        "number": "A29"
+      },
+      "geometry": {
+        "coordinates": [
+          34.807225,
+          31.907242
+        ],
+        "type": "Point"
+      },
+      "id": "2aa6eaa2b3637cca4c86b478ee5fc3de"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "Sculptures",
+        "en_name": "In Suspense",
+        "he_name": "מתח"
+      },
+      "geometry": {
+        "coordinates": [
+          34.808719,
+          31.904854
+        ],
+        "type": "Point"
+      },
+      "id": "2e76b82f6dd3d923b9213e03e0a58531"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "Sculptures",
+        "en_name": "Ritual",
+        "he_name": "ריטואל"
+      },
+      "geometry": {
+        "coordinates": [
+          34.814381,
+          31.908032
+        ],
+        "type": "Point"
+      },
+      "id": "32e948bbae9ece0b367673d9335e9321"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "tree",
+        "he_name": "פיטנה ורודה",
+        "number": ""
+      },
+      "geometry": {
+        "coordinates": [
+          34.812221,
+          31.908244
+        ],
+        "type": "Point"
+      },
+      "id": "37e7bc6a2de4bfa2c5f83973b9c084b7"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "tree",
+        "he_name": "פיקוס בנגלי",
+        "en_name": "Indian Banyan",
+        "number": "I1193"
+      },
+      "geometry": {
+        "coordinates": [
+          34.809362,
+          31.903844
+        ],
+        "type": "Point"
+      },
+      "id": "38d80eebae4a13962c260045d4937f5b"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "resturants",
+        "en_name": "Hermann and Dan Mayer Campus Guesthouse - Maison de France",
+        "he_name": "סן מרטין"
+      },
+      "geometry": {
+        "coordinates": [
+          34.810578,
+          31.90647
+        ],
+        "type": "Point"
+      },
+      "id": "41a6de7fc76ea83dfda955c75f78f552"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "tree",
+        "he_name": "איקליפטוס גלילני",
+        "number": "B913"
+      },
+      "geometry": {
+        "coordinates": [
+          34.808524,
+          31.906293
+        ],
+        "type": "Point"
+      },
+      "id": "432dcde30e12f45c8451d1f47876e74b"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "Sculptures",
+        "en_name": "Three Fledglings",
+        "he_name": "שלושה אפרוחים"
+      },
+      "geometry": {
+        "coordinates": [
+          34.810415,
+          31.905604
+        ],
+        "type": "Point"
+      },
+      "id": "49372225fe1975f425b903c508385eee"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "tree",
+        "he_name": "אקליפטוס המקור",
+        "en_name": "River Red Gum",
+        "number": "A128"
+      },
+      "geometry": {
+        "coordinates": [
+          34.807991,
+          31.907553
+        ],
+        "type": "Point"
+      },
+      "id": "4a0bcf49d37fc671f38ed4fbf038a0a5"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "tree",
+        "he_name": "צאלון נאה",
+        "en_name": "Royal Poinciana, Flamboyant",
+        "number": "B814"
+      },
+      "geometry": {
+        "coordinates": [
+          34.809709,
+          31.905682
+        ],
+        "type": "Point"
+      },
+      "id": "4f36cb3a490f62051880c79c56737799"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "tree",
+        "he_name": "דולב מקסיקני",
+        "number": "I1173"
+      },
+      "geometry": {
+        "coordinates": [
+          34.809694,
+          31.903994
+        ],
+        "type": "Point"
+      },
+      "id": "4fcebd6cb71937f91ae3584722115a2e"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "tree",
+        "he_name": "דומביאה ורודה",
+        "en_name": "Mexican Rose",
+        "number": "C750"
+      },
+      "geometry": {
+        "coordinates": [
+          34.810846,
+          31.906586
+        ],
+        "type": "Point"
+      },
+      "id": "5240dd7ce13fec37617c70e8fdea7cd7"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "tree",
+        "he_name": "אורן קנרי",
+        "en_name": "Canary Island Pine",
+        "number": "B820"
+      },
+      "geometry": {
+        "coordinates": [
+          34.809716,
+          31.905502
+        ],
+        "type": "Point"
+      },
+      "id": "5a94dd39f161e19be6a180e6bbe4479c"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "Sculptures",
+        "en_name": "Continum",
+        "he_name": "המשכיות"
+      },
+      "geometry": {
+        "coordinates": [
+          34.811401,
+          31.907134
+        ],
+        "type": "Point"
+      },
+      "id": "5fe5ce3efb65af99c5437fb04b9ab5a6"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "resturants",
+        "en_name": "Cafe Bkikar",
+        "he_name": "קפה בכיכר"
+      },
+      "geometry": {
+        "coordinates": [
+          34.811416,
+          31.90859
+        ],
+        "type": "Point"
+      },
+      "id": "5ff5233c97d45d84992d27608c3320ee"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "history",
+        "en_name": "Jacob Ziskind Building",
+        "he_name": "בנין ע״ש יעקב זיסקינד"
+      },
+      "geometry": {
+        "coordinates": [
+          34.809734,
+          31.907438
+        ],
+        "type": "Point"
+      },
+      "id": "608d400ccfb773c2ca94e36791fd11cf"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "General",
+        "en_name": "Bloch Boulevard",
+        "he_name": "שדרות בלוך"
+      },
+      "geometry": {
+        "coordinates": [
+          34.807725,
+          31.90605
+        ],
+        "type": "Point"
+      },
+      "id": "636bc763489275e40f5928bb11e7877f"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "tree",
+        "he_name": "מיש אפריקני",
+        "en_name": "White Stinkwood",
+        "number": "30"
+      },
+      "geometry": {
+        "coordinates": [
+          34.807096,
+          31.907186
+        ],
+        "type": "Point"
+      },
+      "id": "68334f64d4546167e637d057f03e25f6"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "tree",
+        "he_name": "סבל פלמטו",
+        "en_name": "Cabbage Palm, Cabbage Palmetto",
+        "number": "A372"
+      },
+      "geometry": {
+        "coordinates": [
+          34.807974,
+          31.906304
+        ],
+        "type": "Point"
+      },
+      "id": "6858b2b2f80a26626f7e371b2ddfa51c"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "tree",
+        "he_name": "אלמוגן כרבולתי",
+        "en_name": "Cockspur Coral Tree",
+        "number": "E1670"
+      },
+      "geometry": {
+        "coordinates": [
+          34.811206,
+          31.909132
+        ],
+        "type": "Point"
+      },
+      "id": "6a2e1e5bc814822f40633be752bc26c9"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "tree",
+        "he_name": "דולב",
+        "en_name": "Oriental Plane Tree",
+        "number": "2050"
+      },
+      "geometry": {
+        "coordinates": [
+          34.812839,
+          31.908774
+        ],
+        "type": "Point"
+      },
+      "id": "6b3974372d2faf8d3c6f9c9855f42fa2"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "tree",
+        "he_name": "קיגליה מנוצה",
+        "en_name": "Sausage Tree",
+        "number": "E1640"
+      },
+      "geometry": {
+        "coordinates": [
+          34.812219,
+          31.907399
+        ],
+        "type": "Point"
+      },
+      "id": "6fee283d52c83a18ae7684edfc8dd44b"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "tree",
+        "he_name": "קתרוסית מרובעת",
+        "en_name": "Florida Fiddlewood, Jamaica Fiddlewood",
+        "number": "C749"
+      },
+      "geometry": {
+        "coordinates": [
+          34.810823,
+          31.906612
+        ],
+        "type": "Point"
+      },
+      "id": "74e6b456b025dc1f635e7fbb55c766d7"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "tree",
+        "he_name": "מכנף נאה",
+        "en_name": "Pride of Bolivia, Rosewood",
+        "number": "E1714"
+      },
+      "geometry": {
+        "coordinates": [
+          34.810347,
+          31.90906
+        ],
+        "type": "Point"
+      },
+      "id": "75b038dd72d2ef7d70f927f7b7b0b9ed"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "resturants",
+        "en_name": "Pi Squared",
+        "he_name": "פאי בריבוע"
+      },
+      "geometry": {
+        "coordinates": [
+          34.808502,
+          31.908792
+        ],
+        "type": "Point"
+      },
+      "id": "77ff215981ae6b079c8a138f08b633ab"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "en_name": "Main Gate",
+        "he_name": "שער ראשי",
+        "category": " Gate"
+      },
+      "geometry": {
+        "coordinates": [
+          34.808059,
+          31.903775
+        ],
+        "type": "Point"
+      },
+      "id": "7936f251346f70bfbb268e9ee82322c2"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "history",
+        "en_name": "Michael and Anna Wix Auditorium",
+        "he_name": "אולם ע״ש מיכאל ואנה ויקס"
+      },
+      "geometry": {
+        "coordinates": [
+          34.809509,
+          31.905087
+        ],
+        "type": "Point"
+      },
+      "id": "7a1c63d697138eaef26d7b8e0e6d8cf1"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "history",
+        "en_name": "Sussman Building for Environmental Sciences",
+        "he_name": "בניין זוסמן למדעי הסביבה"
+      },
+      "geometry": {
+        "coordinates": [
+          34.810729,
+          31.907067
+        ],
+        "type": "Point"
+      },
+      "id": "7b6e5474ccb99de61bfd02c7595c9a18"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "tree",
+        "he_name": "איגניית הפיטנגה",
+        "en_name": "Surinam Cherry",
+        "number": "C476"
+      },
+      "geometry": {
+        "coordinates": [
+          34.809116,
+          31.907252
+        ],
+        "type": "Point"
+      },
+      "id": "7e93581bd0acfe783452b15f7aa01e68"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "Sculptures",
+        "en_name": "Menorah/Tree of Knowledge",
+        "he_name": "מנורה/עץ הדעת"
+      },
+      "geometry": {
+        "coordinates": [
+          34.809295,
+          31.907001
+        ],
+        "type": "Point"
+      },
+      "id": "7f113285404c0e2293ef746a4b9551cc"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "resturants",
+        "en_name": "Charlie's Place",
+        "he_name": "אצל צארלי"
+      },
+      "geometry": {
+        "coordinates": [
+          34.806078,
+          31.907381
+        ],
+        "type": "Point"
+      },
+      "id": "7f48c4b194111b81cbcfc9bcaf555b49"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "tree",
+        "he_name": "סיגלון חד עלים",
+        "en_name": "Jacaranda",
+        "number": "E2075"
+      },
+      "geometry": {
+        "coordinates": [
+          34.814581,
+          31.908363
+        ],
+        "type": "Point"
+      },
+      "id": "81c8b7877d60c7545b9907c56be13c59"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "tree",
+        "he_name": "כסיית האבוב",
+        "en_name": "Golden Shower Tree, Indian Laburnum, Pudding Pipe Tree",
+        "number": "A157"
+      },
+      "geometry": {
+        "coordinates": [
+          34.807218,
+          31.907658
+        ],
+        "type": "Point"
+      },
+      "id": "83543276bf3fbdab717c9c79ee26e961"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "history",
+        "en_name": "Daniel Wolf Building",
+        "he_name": "בנין ע״ש דניאל וולף"
+      },
+      "geometry": {
+        "coordinates": [
+          34.80981,
+          31.907671
+        ],
+        "type": "Point"
+      },
+      "id": "8872851481c12027acbf02499dda71c6"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "tree",
+        "he_name": "כמרופס נמוך",
+        "en_name": "Mediterranean Fan Palm",
+        "number": "E1673"
+      },
+      "geometry": {
+        "coordinates": [
+          34.811329,
+          31.908698
+        ],
+        "type": "Point"
+      },
+      "id": "8ae9095ee92496a50ed801aaba55d5d0"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "tree",
+        "he_name": "שפלרה מקרינה",
+        "en_name": "Queensland Umbrella Tree, Octopus Tree",
+        "number": "C642"
+      },
+      "geometry": {
+        "coordinates": [
+          34.809406,
+          31.906686
+        ],
+        "type": "Point"
+      },
+      "id": "8b547956bb68683839793b61f168fcfa"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "en_name": "Davidson Gate",
+        "he_name": "שער דוידסון",
+        "category": "Gate"
+      },
+      "geometry": {
+        "coordinates": [
+          34.82015,
+          31.90666
+        ],
+        "type": "Point"
+      },
+      "id": "8e8d93c25dfda3113b6d5a9f89ad5aea"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "tree",
+        "he_name": "פיקוס חלוד",
+        "en_name": "Rusty Fig, Port Jackson Fig",
+        "number": "I1192"
+      },
+      "geometry": {
+        "coordinates": [
+          34.809303,
+          31.903831
+        ],
+        "type": "Point"
+      },
+      "id": "9533280aafc03f4591fd17637088d4fd"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "history",
+        "en_name": "The David Lopatie Conference Centre",
+        "he_name": "מרכז הכנסים ע״ש דוד לופאטי"
+      },
+      "geometry": {
+        "coordinates": [
+          34.8095,
+          31.904661
+        ],
+        "type": "Point"
+      },
+      "id": "9c17329724d72c9c1f081c5306215e12"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "tree",
+        "he_name": "איקליפטוס המקור",
+        "en_name": "River Red Gum",
+        "number": "A66"
+      },
+      "geometry": {
+        "coordinates": [
+          34.80687,
+          31.907917
+        ],
+        "type": "Point"
+      },
+      "id": "a0c61bf5cea9f6add548dd3eace596fb"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "resturants",
+        "en_name": "Cafe Mada",
+        "he_name": "קפה מדע"
+      },
+      "geometry": {
+        "coordinates": [
+          34.8097,
+          31.904293
+        ],
+        "type": "Point"
+      },
+      "id": "a859a28727d0bee6b462439c6f0eb5c3"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "history",
+        "en_name": "Koffler Accelerator of the Canada Centre of Nuclear Physics",
+        "he_name": "מאיץ החלקיקים ע״ש קופלר"
+      },
+      "geometry": {
+        "coordinates": [
+          34.812561,
+          31.90796
+        ],
+        "type": "Point"
+      },
+      "id": "a9634e785977bbde381ef9e7d9b39683"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "Sculptures",
+        "en_name": "Tree of Life",
+        "he_name": "עץ החיים"
+      },
+      "geometry": {
+        "coordinates": [
+          34.808979,
+          31.907247
+        ],
+        "type": "Point"
+      },
+      "id": "a9f0dedf3500c48a96d2ed82fa0d5513"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "tree",
+        "he_name": "סיסם הודי",
+        "en_name": "Rosewood",
+        "number": "E2117"
+      },
+      "geometry": {
+        "coordinates": [
+          34.814224,
+          31.907799
+        ],
+        "type": "Point"
+      },
+      "id": "ac8fb7349d0bff9a1aca3e9593036347"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "Cash Machine",
+        "en_name": "ATM Bank Leumi",
+        "he_name": "כספומט בנק לאומי"
+      },
+      "geometry": {
+        "coordinates": [
+          34.811351,
+          31.908574
+        ],
+        "type": "Point"
+      },
+      "id": "af152a09ddd34f077c99b189f6e4e38b"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "history",
+        "en_name": "Sidney Musher Building for Science Teaching",
+        "he_name": "בנין להוראת המדעים ע״ש סידני מאושר"
+      },
+      "geometry": {
+        "coordinates": [
+          34.81128,
+          31.907847
+        ],
+        "type": "Point"
+      },
+      "id": "b3ac17c20a37b0a229f8cb012b7376e1"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "tree",
+        "he_name": "שלטית מקומטת",
+        "en_name": "Yellow Poinciana, Yellow Flame",
+        "number": "B932"
+      },
+      "geometry": {
+        "coordinates": [
+          34.809331,
+          31.905066
+        ],
+        "type": "Point"
+      },
+      "id": "b4bb92da39587279e12820cac63fc4ec"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "tree",
+        "he_name": "חאיה ניאסית",
+        "en_name": "Nyasaland Mahogany",
+        "number": "A45"
+      },
+      "geometry": {
+        "coordinates": [
+          34.806315,
+          31.907311
+        ],
+        "type": "Point"
+      },
+      "id": "b702e44d00878d01b0484d65145ef454"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "General",
+        "en_name": "Helen and Milton A. Kimmelman Building",
+        "he_name": "בניין ע״ש הלן ומילטון א.קימלמן"
+      },
+      "geometry": {
+        "coordinates": [
+          34.810078,
+          31.906063
+        ],
+        "type": "Point"
+      },
+      "id": "b73ca6494143a2c3119e44ff3bfa60ab"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "tree",
+        "he_name": "צאלון נאה",
+        "en_name": "Royal Poinciana, Flamboyant",
+        "number": "B980"
+      },
+      "geometry": {
+        "coordinates": [
+          34.808369,
+          31.904254
+        ],
+        "type": "Point"
+      },
+      "id": "b7af0d67ead0c2caafe5efbf3751c77e"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "tree",
+        "he_name": "פיקוס השדרות",
+        "en_name": "Indian Laurel Fig, Chinese banyan",
+        "number": "B287"
+      },
+      "geometry": {
+        "coordinates": [
+          34.807067,
+          31.906081
+        ],
+        "type": "Point"
+      },
+      "id": "b93be0d35765a098a8ac0f5277dc3470"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "tree",
+        "he_name": "מקדמיה תמימה",
+        "en_name": "Smooth-Shell Macademia Nut, Queensland Nut",
+        "number": "C3919"
+      },
+      "geometry": {
+        "coordinates": [
+          34.80722,
+          31.905616
+        ],
+        "type": "Point"
+      },
+      "id": "bdeb586dac786fd6e348a696673ee9bc"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "history",
+        "en_name": "Weisgal Square",
+        "he_name": "כיכר וייסגל"
+      },
+      "geometry": {
+        "coordinates": [
+          34.809396,
+          31.90737
+        ],
+        "type": "Point"
+      },
+      "id": "c04f723f1f23151e54622907da5b1ee6"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "Sculptures",
+        "en_name": "Ensemble",
+        "he_name": "אנסמבל"
+      },
+      "geometry": {
+        "coordinates": [
+          34.810696,
+          31.906808
+        ],
+        "type": "Point"
+      },
+      "id": "c9a0b6d68659b3022ecfa06fe3bdacf5"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "history",
+        "en_name": "Memorial Plaza",
+        "he_name": "כיכר הזכרון"
+      },
+      "geometry": {
+        "coordinates": [
+          34.817964,
+          31.908031
+        ],
+        "type": "Point"
+      },
+      "id": "cc0d7fd63608a9cf3d04f6301c2bc75e"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "tree",
+        "he_name": "אורן הגלעין",
+        "number": "E2061"
+      },
+      "geometry": {
+        "coordinates": [
+          34.813087,
+          31.907733
+        ],
+        "type": "Point"
+      },
+      "id": "d15d622ba832e7bcc97e525c8bd4a9c5"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "tree",
+        "he_name": "מגנוליה גדולת פרחים",
+        "en_name": "Southern Magnolia, Bull Bayv",
+        "number": "E1674"
+      },
+      "geometry": {
+        "coordinates": [
+          34.81141,
+          31.908783
+        ],
+        "type": "Point"
+      },
+      "id": "d30acd4948e724dd4244c224632aa06a"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "tree",
+        "he_name": "(בומבק צייבה (הודי",
+        "en_name": "Red Silk cotton Tree, Kapok",
+        "number": "E1661"
+      },
+      "geometry": {
+        "coordinates": [
+          34.810901,
+          31.908418
+        ],
+        "type": "Point"
+      },
+      "id": "d37448631b4f69be30d794654509455d"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "tree",
+        "he_name": "פנדנוס תועלתי",
+        "en_name": "Common Screwpine",
+        "number": "I1170"
+      },
+      "geometry": {
+        "coordinates": [
+          34.809656,
+          31.904312
+        ],
+        "type": "Point"
+      },
+      "id": "d558c944b8882ff25b1603e50e077162"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "attraction",
+        "en_name": "The Levinson Visitors Center",
+        "he_name": "מרכז המבקרים ע״ש לוינסון"
+      },
+      "geometry": {
+        "coordinates": [
+          34.809844,
+          31.904758
+        ],
+        "type": "Point"
+      },
+      "id": "dd62cb0afee164d9f85c0162b960efeb"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "tree",
+        "he_name": "כוריזיה בקבוקית",
+        "en_name": "White Floss Silk Tree",
+        "number": "B938"
+      },
+      "geometry": {
+        "coordinates": [
+          34.809343,
+          31.904978
+        ],
+        "type": "Point"
+      },
+      "id": "ddfdc248a2ca410f6cc56fce828e58cf"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "tree",
+        "he_name": "מנגו הודי",
+        "en_name": "Mango",
+        "number": "B3875"
+      },
+      "geometry": {
+        "coordinates": [
+          34.807271,
+          31.905663
+        ],
+        "type": "Point"
+      },
+      "id": "e0e9206163cfc60b9eb61ee6f3ef3342"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "en_name": "South Gate",
+        "he_name": "שער דרומי",
+        "category": "Gate"
+      },
+      "geometry": {
+        "coordinates": [
+          34.81776,
+          31.90664
+        ],
+        "type": "Point"
+      },
+      "id": "eed343d974ee9d5d8a3833467300a1c5"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "attraction",
+        "en_name": "Clore Garden of Science",
+        "he_name": "גן המדע"
+      },
+      "geometry": {
+        "coordinates": [
+          34.812695,
+          31.909808
+        ],
+        "type": "Point"
+      },
+      "id": "f1cddf66e043d83f872e8e19b90139fc"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "history",
+        "en_name": "Daniel Sieff Research Institute",
+        "he_name": "מכון מחקר ע״ש דניאל זיו"
+      },
+      "geometry": {
+        "coordinates": [
+          34.809555,
+          31.906695
+        ],
+        "type": "Point"
+      },
+      "id": "f1f066bb25aaee6ecf3bedd6985affcc"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "tree",
+        "he_name": "פיקוס השדרות",
+        "en_name": "Indian Laurel Fig, Chinese banyan",
+        "number": "B957"
+      },
+      "geometry": {
+        "coordinates": [
+          34.810382,
+          31.908615
+        ],
+        "type": "Point"
+      },
+      "id": "f4b0f510d78920a335c936959b4a70b8"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "tree",
+        "he_name": "זית אירופי",
+        "en_name": "Olive",
+        "number": "C518"
+      },
+      "geometry": {
+        "coordinates": [
+          34.810172,
+          31.907595
+        ],
+        "type": "Point"
+      },
+      "id": "f860fa83ae259b0252c133f065571caf"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "en_name": "Bloch Gate",
+        "he_name": "שער בלוך",
+        "category": "Gate"
+      },
+      "geometry": {
+        "coordinates": [
+          34.80616,
+          31.90639
+        ],
+        "type": "Point"
+      },
+      "id": "f9aff05b4052fabf2ae7dedc411a2371"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "attraction",
+        "en_name": "Weizmann House",
+        "he_name": "בית ויצמן"
+      },
+      "geometry": {
+        "coordinates": [
+          34.818471,
+          31.907328
+        ],
+        "type": "Point"
+      },
+      "id": "fabd1442a8d20f9a028271a1205d997a"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "tree",
+        "he_name": "תות לבן - בכוחי",
+        "en_name": "White Mulberry, Silkworm Mulberry",
+        "number": "E2084"
+      },
+      "geometry": {
+        "coordinates": [
+          34.81386,
+          31.908149
+        ],
+        "type": "Point"
+      },
+      "id": "ff705fa7d48e27eeeb841e584a90e986"
+    }
+  ],
+  "type": "FeatureCollection"
+}
