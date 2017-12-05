@@ -87,12 +87,12 @@
       "properties": {
         "category": "General",
         "en_name": "Maurice and Gabriela Goldschleger Life Sciences Library",
-        "he_name": "  ספרית גולדשלגר למדעי החיים"
+        "he_name": "ספרית גולדשלגר למדעי החיים"
       },
       "geometry": {
         "coordinates": [
-          34.808689,
-          31.907142
+          34.808792,
+          31.907002
         ],
         "type": "Point"
       },
@@ -401,8 +401,8 @@
       },
       "geometry": {
         "coordinates": [
-          34.809734,
-          31.907438
+          34.809669,
+          31.907388
         ],
         "type": "Point"
       },
@@ -633,8 +633,8 @@
       },
       "geometry": {
         "coordinates": [
-          34.809295,
-          31.907001
+          34.809256,
+          31.906984
         ],
         "type": "Point"
       },
@@ -699,8 +699,8 @@
       },
       "geometry": {
         "coordinates": [
-          34.80981,
-          31.907671
+          34.809815,
+          31.907675
         ],
         "type": "Point"
       },
@@ -733,8 +733,8 @@
       },
       "geometry": {
         "coordinates": [
-          34.809406,
-          31.906686
+          34.809606,
+          31.906747
         ],
         "type": "Point"
       },
@@ -896,8 +896,8 @@
       },
       "geometry": {
         "coordinates": [
-          34.81128,
-          31.907847
+          34.811226,
+          31.907833
         ],
         "type": "Point"
       },
@@ -1210,8 +1210,8 @@
       },
       "geometry": {
         "coordinates": [
-          34.809555,
-          31.906695
+          34.809511,
+          31.906704
         ],
         "type": "Point"
       },
