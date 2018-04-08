@@ -42,8 +42,8 @@
       },
       "geometry": {
         "coordinates": [
-          34.809863,
-          31.907714
+          34.809867,
+          31.907698
         ],
         "type": "Point"
       },
@@ -91,8 +91,8 @@
       },
       "geometry": {
         "coordinates": [
-          34.808792,
-          31.907002
+          34.808859,
+          31.906888
         ],
         "type": "Point"
       },
@@ -172,8 +172,8 @@
       },
       "geometry": {
         "coordinates": [
-          34.808719,
-          31.904854
+          34.808512,
+          31.904969
         ],
         "type": "Point"
       },
@@ -584,8 +584,8 @@
       },
       "geometry": {
         "coordinates": [
-          34.809509,
-          31.905087
+          34.809473,
+          31.905021
         ],
         "type": "Point"
       },
@@ -612,7 +612,7 @@
       "properties": {
         "category": "tree",
         "he_name": "איגניית הפיטנגה",
-        "en_name": "Surinam Cherry",
+        "en_name": "A29",
         "number": "C476"
       },
       "geometry": {
@@ -683,8 +683,8 @@
       },
       "geometry": {
         "coordinates": [
-          34.807218,
-          31.907658
+          34.80721,
+          31.907675
         ],
         "type": "Point"
       },
@@ -699,8 +699,8 @@
       },
       "geometry": {
         "coordinates": [
-          34.809815,
-          31.907675
+          34.809847,
+          31.907655
         ],
         "type": "Point"
       },
@@ -711,7 +711,7 @@
       "properties": {
         "category": "tree",
         "he_name": "כמרופס נמוך",
-        "en_name": "Mediterranean Fan Palm",
+        "en_name": "קפה בכיכר",
         "number": "E1673"
       },
       "geometry": {
@@ -842,7 +842,7 @@
       "type": "Feature",
       "properties": {
         "category": "Sculptures",
-        "en_name": "Tree of Life",
+        "en_name": "Cafe Bkikar",
         "he_name": "עץ החיים"
       },
       "geometry": {
@@ -930,8 +930,8 @@
       },
       "geometry": {
         "coordinates": [
-          34.806315,
-          31.907311
+          34.80629,
+          31.907176
         ],
         "type": "Point"
       },
@@ -963,8 +963,8 @@
       },
       "geometry": {
         "coordinates": [
-          34.808369,
-          31.904254
+          34.808579,
+          31.904138
         ],
         "type": "Point"
       },
@@ -992,7 +992,7 @@
       "properties": {
         "category": "tree",
         "he_name": "מקדמיה תמימה",
-        "en_name": "Smooth-Shell Macademia Nut, Queensland Nut",
+        "en_name": "A29",
         "number": "C3919"
       },
       "geometry": {
