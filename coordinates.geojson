@@ -75,8 +75,8 @@
       },
       "geometry": {
         "coordinates": [
-          34.812548,
-          31.907391
+          34.806777,
+          31.907193
         ],
         "type": "Point"
       },
@@ -150,22 +150,6 @@
     {
       "type": "Feature",
       "properties": {
-        "category": "tree",
-        "he_name": "פיקוס קערורי",
-        "number": "A29"
-      },
-      "geometry": {
-        "coordinates": [
-          34.807225,
-          31.907242
-        ],
-        "type": "Point"
-      },
-      "id": "2aa6eaa2b3637cca4c86b478ee5fc3de"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "category": "Sculptures",
         "en_name": "In Suspense",
         "he_name": "מתח"
@@ -188,28 +172,12 @@
       },
       "geometry": {
         "coordinates": [
-          34.814381,
-          31.908032
+          34.814399,
+          31.908001
         ],
         "type": "Point"
       },
       "id": "32e948bbae9ece0b367673d9335e9321"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "category": "tree",
-        "he_name": "פיטנה ורודה",
-        "number": ""
-      },
-      "geometry": {
-        "coordinates": [
-          34.812221,
-          31.908244
-        ],
-        "type": "Point"
-      },
-      "id": "37e7bc6a2de4bfa2c5f83973b9c084b7"
     },
     {
       "type": "Feature",
@@ -248,8 +216,9 @@
       "type": "Feature",
       "properties": {
         "category": "tree",
-        "he_name": "איקליפטוס גלילני",
-        "number": "B913"
+        "he_name": "מקדמיה תמימה",
+        "number": "B913",
+        "en_name": "Smooth-Shell Macadamia Nut, Queensland Nut"
       },
       "geometry": {
         "coordinates": [
@@ -280,23 +249,6 @@
       "type": "Feature",
       "properties": {
         "category": "tree",
-        "he_name": "אקליפטוס המקור",
-        "en_name": "River Red Gum",
-        "number": "A128"
-      },
-      "geometry": {
-        "coordinates": [
-          34.807991,
-          31.907553
-        ],
-        "type": "Point"
-      },
-      "id": "4a0bcf49d37fc671f38ed4fbf038a0a5"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "category": "tree",
         "he_name": "צאלון נאה",
         "en_name": "Royal Poinciana, Flamboyant",
         "number": "B814"
@@ -309,22 +261,6 @@
         "type": "Point"
       },
       "id": "4f36cb3a490f62051880c79c56737799"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "category": "tree",
-        "he_name": "דולב מקסיקני",
-        "number": "I1173"
-      },
-      "geometry": {
-        "coordinates": [
-          34.809694,
-          31.903994
-        ],
-        "type": "Point"
-      },
-      "id": "4fcebd6cb71937f91ae3584722115a2e"
     },
     {
       "type": "Feature",
@@ -468,8 +404,8 @@
       },
       "geometry": {
         "coordinates": [
-          34.811206,
-          31.909132
+          34.81117,
+          31.909095
         ],
         "type": "Point"
       },
@@ -612,7 +548,7 @@
       "properties": {
         "category": "tree",
         "he_name": "איגניית הפיטנגה",
-        "en_name": "A29",
+        "en_name": "Surinam Cherry",
         "number": "C476"
       },
       "geometry": {
@@ -633,8 +569,8 @@
       },
       "geometry": {
         "coordinates": [
-          34.809274,
-          31.906955
+          34.808987,
+          31.907781
         ],
         "type": "Point"
       },
@@ -666,8 +602,8 @@
       },
       "geometry": {
         "coordinates": [
-          34.814581,
-          31.908363
+          34.812305,
+          31.907666
         ],
         "type": "Point"
       },
@@ -711,7 +647,7 @@
       "properties": {
         "category": "tree",
         "he_name": "כמרופס נמוך",
-        "en_name": "קפה בכיכר",
+        "en_name": "Mediterranean Fan Palm",
         "number": "E1673"
       },
       "geometry": {
@@ -842,7 +778,7 @@
       "type": "Feature",
       "properties": {
         "category": "Sculptures",
-        "en_name": "Cafe Bkikar",
+        "en_name": "Tree of life",
         "he_name": "עץ החיים"
       },
       "geometry": {
@@ -946,8 +882,8 @@
       },
       "geometry": {
         "coordinates": [
-          34.810078,
-          31.906063
+          34.809905,
+          31.906258
         ],
         "type": "Point"
       },
@@ -992,7 +928,7 @@
       "properties": {
         "category": "tree",
         "he_name": "מקדמיה תמימה",
-        "en_name": "A29",
+        "en_name": "Smooth-Shell Macadamia Nut, Queensland Nut",
         "number": "C3919"
       },
       "geometry": {
@@ -1013,8 +949,8 @@
       },
       "geometry": {
         "coordinates": [
-          34.809396,
-          31.90737
+          34.809148,
+          31.907465
         ],
         "type": "Point"
       },
@@ -1162,8 +1098,8 @@
       },
       "geometry": {
         "coordinates": [
-          34.807271,
-          31.905663
+          34.808838,
+          31.906258
         ],
         "type": "Point"
       },
@@ -1237,23 +1173,6 @@
     {
       "type": "Feature",
       "properties": {
-        "category": "tree",
-        "he_name": "זית אירופי",
-        "en_name": "Olive",
-        "number": "C518"
-      },
-      "geometry": {
-        "coordinates": [
-          34.810172,
-          31.907595
-        ],
-        "type": "Point"
-      },
-      "id": "f860fa83ae259b0252c133f065571caf"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "en_name": "Bloch Gate",
         "he_name": "שער בלוך",
         "category": "Gate"
@@ -1276,8 +1195,8 @@
       },
       "geometry": {
         "coordinates": [
-          34.818471,
-          31.907328
+          34.818563,
+          31.906404
         ],
         "type": "Point"
       },
