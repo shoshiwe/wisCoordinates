@@ -3,6 +3,22 @@
     {
       "type": "Feature",
       "properties": {
+        "en_name": "Memorial to the Victims of the Holocaust",
+        "he_name": "אנדרטה לנספים בשואה",
+        "category": "Sculptures"
+      },
+      "geometry": {
+        "coordinates": [
+          34.819053,
+          31.90818
+        ],
+        "type": "Point"
+      },
+      "id": "017456c9d8ccc48735efe52df0224a7c"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "category": "Sculptures",
         "en_name": "The Inner Light",
         "he_name": "האור הפנימי"
@@ -172,8 +188,8 @@
       },
       "geometry": {
         "coordinates": [
-          34.814399,
-          31.908001
+          34.814038,
+          31.908078
         ],
         "type": "Point"
       },
@@ -404,8 +420,8 @@
       },
       "geometry": {
         "coordinates": [
-          34.81117,
-          31.909095
+          34.811223,
+          31.909053
         ],
         "type": "Point"
       },
@@ -569,8 +585,8 @@
       },
       "geometry": {
         "coordinates": [
-          34.808987,
-          31.907781
+          34.809316,
+          31.906811
         ],
         "type": "Point"
       },
@@ -602,8 +618,8 @@
       },
       "geometry": {
         "coordinates": [
-          34.812305,
-          31.907666
+          34.812312,
+          31.907978
         ],
         "type": "Point"
       },
@@ -664,7 +680,7 @@
       "properties": {
         "category": "tree",
         "he_name": "שפלרה מקרינה",
-        "en_name": "Queensland Umbrella Tree, Octopus Tree",
+        "en_name": "גן המדע",
         "number": "C642"
       },
       "geometry": {
@@ -909,6 +925,20 @@
     {
       "type": "Feature",
       "properties": {
+        "en_name": "test"
+      },
+      "geometry": {
+        "coordinates": [
+          34.809641,
+          31.904425
+        ],
+        "type": "Point"
+      },
+      "id": "b929c4bea7ff6fec13dffabe42cb4af8"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "category": "tree",
         "he_name": "פיקוס השדרות",
         "en_name": "Indian Laurel Fig, Chinese banyan",
@@ -981,8 +1011,8 @@
       },
       "geometry": {
         "coordinates": [
-          34.817964,
-          31.908031
+          34.819011,
+          31.907844
         ],
         "type": "Point"
       },
@@ -1098,8 +1128,8 @@
       },
       "geometry": {
         "coordinates": [
-          34.808838,
-          31.906258
+          34.808868,
+          31.907389
         ],
         "type": "Point"
       },
@@ -1130,8 +1160,8 @@
       },
       "geometry": {
         "coordinates": [
-          34.812695,
-          31.909808
+          34.812534,
+          31.909794
         ],
         "type": "Point"
       },
@@ -1146,8 +1176,8 @@
       },
       "geometry": {
         "coordinates": [
-          34.809511,
-          31.906704
+          34.809526,
+          31.906779
         ],
         "type": "Point"
       },
@@ -1179,8 +1209,8 @@
       },
       "geometry": {
         "coordinates": [
-          34.80616,
-          31.90639
+          34.80629,
+          31.906228
         ],
         "type": "Point"
       },
@@ -1195,8 +1225,8 @@
       },
       "geometry": {
         "coordinates": [
-          34.818563,
-          31.906404
+          34.81863,
+          31.906488
         ],
         "type": "Point"
       },
