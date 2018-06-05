@@ -488,8 +488,8 @@
       },
       "geometry": {
         "coordinates": [
-          34.810347,
-          31.90906
+          34.810276,
+          31.909138
         ],
         "type": "Point"
       },
@@ -680,7 +680,7 @@
       "properties": {
         "category": "tree",
         "he_name": "שפלרה מקרינה",
-        "en_name": "Queensland Umbrella Tree, Octopus Tree",
+        "en_name": "Queensland Umbrella Tree, Octopus Tree ",
         "number": "C642"
       },
       "geometry": {
