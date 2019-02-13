@@ -221,8 +221,8 @@
       },
       "geometry": {
         "coordinates": [
-          34.810462,
-          31.906859
+          34.810582,
+          31.906742
         ],
         "type": "Point"
       },
@@ -1251,4 +1251,4 @@
     }
   ],
   "type": "FeatureCollection"
-}
+}u
